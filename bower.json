@@ -1,0 +1,21 @@
+{
+  "name": "beer",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "aditya <aditya@formobi.in>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^1.0.0",
+    "angular": "angularjs#^1.7.7"
+  }
+}
