@@ -5,5 +5,6 @@ Required softwares
 To run it in local machine, 
 1. npm install
 2. bower insall
+3. node app.js
 
 open localhost:3000
